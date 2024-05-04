@@ -8,7 +8,7 @@ import { LoaderContext, LoaderContextType } from "../context/LoaderContext"
 export const HomePage = () => {
 
   const { setLoader } = useContext(LoaderContext) as LoaderContextType
-  
+
   useEffect(() => {
     setLoader(false)
   }, [setLoader])
