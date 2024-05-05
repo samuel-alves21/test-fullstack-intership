@@ -23,7 +23,7 @@
 ### Frontend Setup
 1. Navigate to the frontend directory: `cd client`.
 2. Install dependencies: `npm install`.
-3. Start the development server: `npm run dev` or `npm run server` on the root..
+3. Start the development server: `npm run dev` or `npm run client` on the root.
 4. The frontend server will run on `http://localhost:5173`.
 
 ### Running the Application
